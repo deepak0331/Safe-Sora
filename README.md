@@ -117,14 +117,10 @@ Our code is based on these awesome repos:
 ## 📖 BibTeX
 If you find our repo helpful, please consider leaving a star or cite our paper :)
 ```bibtex
-@misc{su2025safesorasafetexttovideogeneration,
-  title={Safe-Sora: Safe Text-to-Video Generation via Graphical Watermarking}, 
-  author={Zihan Su and Xuerui Qiu and Hongbin Xu and Tangyu Jiang and Junhao Zhuang and Chun Yuan and Ming Li 
-          and Shengfeng He and Fei Richard Yu},
-  year={2025},
-  eprint={2505.12667},
-  archivePrefix={arXiv},
-  primaryClass={cs.CV},
-  url={https://arxiv.org/abs/2505.12667}, 
+@article{su2025safe,
+  title={Safe-Sora: Safe Text-to-Video Generation via Graphical Watermarking},
+  author={Su, Zihan and Qiu, Xuerui and Xu, Hongbin and Jiang, Tangyu and Zhuang, Junhao and Yuan, Chun and Li, Ming and He, Shengfeng and Yu, Fei Richard},
+  journal={arXiv preprint arXiv:2505.12667},
+  year={2025}
 }
 ```
